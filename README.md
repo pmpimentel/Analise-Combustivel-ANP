@@ -11,14 +11,12 @@ Trabalho de análise de dados que coleta preços de gasolina e etanol disponibil
 ## Descrição
 
 O projeto utiliza dados públicos da **Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)** para acompanhar preços de combustíveis.
-
 A ideia é transformar o arquivo original da ANP em dados mais fáceis de consultar.
-
 No final, o programa mostra:
 
-* preço médio dos combustíveis na cidade escolhida;
-* postos com os menores preços de gasolina;
-* gráfico com a evolução do preço médio da gasolina.
+* preço médio dos combustíveis na cidade escolhida
+* postos com os menores preços de gasolina
+* gráfico com a evolução do preço médio da gasolina
 
 Por padrão, a análise está configurada para **Curitiba - PR**, mas a cidade e o estado podem ser alterados no arquivo:
 
